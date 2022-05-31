@@ -1,0 +1,33 @@
+*{
+    margin: 2;
+    margin-left: 20px;
+    padding: 2;
+}
+.headingStyle{
+    background-color: purple;
+    color: antiquewhite;
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.card{
+    background-color: rgb(247, 195, 131);
+    box-shadow: 2px 4px 4px gray;
+    border-radius: 5px;
+    margin: 10px;
+    width: 370px;
+    display: inline-block;
+}
+.cardTitle{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.cardDescription{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.cardDate{
+    text-align: center;
+    font-weight: bold;
+}
